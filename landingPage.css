@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
+
 body{
     font-family: 'Open Sans', sans-serif;   
 }
@@ -81,8 +82,8 @@ main p{
 
 .cta{
     padding: 15px 30px;
-    background: #c4c4f7
-    outline:none;
-    border:none;
+    background: #c4c4f7;
+    outline: none;
+    border: none;
     font-weight: 700;
 }
