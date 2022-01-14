@@ -10,7 +10,7 @@ body{
 
 header{
     height: 100px;
-    background: gray;
+    background: magenta;
     display: flex;
     justify-content: space-around;
     align-items: center;
